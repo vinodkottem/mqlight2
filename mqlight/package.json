@@ -1,0 +1,14 @@
+{
+  "name": "MESSAGE_HUB_MYTEST1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jshtml": "*",
+    "mqlight": "^2.0.2016102601",
+    "node-uuid": "^1.4.7"
+  }
+}
